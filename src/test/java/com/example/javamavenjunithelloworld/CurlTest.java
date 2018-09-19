@@ -52,9 +52,9 @@ public class CurlTest {
             // Add Form parameters
             MultipartEntityBuilder builder = MultipartEntityBuilder.create();
 
-            builder.addTextBody(FEEDTYPE_PARAM, "cespharm",
+            builder.addTextBody(FEEDTYPE_PARAM, "incremental",
                 ContentType.TEXT_PLAIN);
-            builder.addTextBody(DATASOURCE_PARAM, "incremental",
+            builder.addTextBody(DATASOURCE_PARAM, "cespharm" ,
                 ContentType.TEXT_PLAIN);
             builder.addBinaryBody(XMLFILE_PARAM, is);
             HttpEntity multipartEntity = builder.build();
