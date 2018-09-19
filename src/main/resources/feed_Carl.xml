@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gsafeed PUBLIC "-//Google//DTD GSA Feeds//EN" "http://gspgsa3.parisgsa.lan/gsafeed.dtd">
+<gsafeed>
+	<header>
+		<datasource>cespharm</datasource>
+		<feedtype>incremental</feedtype>
+	</header>
+	<group>
+		<record url="https://connectors.sword-group.com/cespharm/doc?node=press_release%7C16520" displayurl="http://www.cespharm.fr/Prevention-sante/Connaitre-le-Cespharm/Communiques-de-presse/2010/www.cespharm.fr-obtient-la-certification-HAS-HON" action="add" mimetype="text/html" last-modified="Fri, 02 Jul 2010 15:07:34 CEST" lock="true" authmethod="none" >
+			<metadata>
+				<meta name="Source" content="EZPublish" />
+				<meta name="Type" content="press_release" />
+				<meta name="name" content="Carl obtient la certification HAS-HON" />
+				<meta encoding="base64binary" name="dGV4dA==" content="TGUgc2l0ZSB3d3cuY2VzcGhhcm0uZnIsIHBlcm1ldHRhbnQgYXV4IHBoYXJtYWNpZW5zIGTDouKCrOKEomFjY8ODwqlkZXIgZmFjaWxlbWVudCDDg8KgIGRlcyBpbmZvcm1hdGlvbnMgZXQgb3V0aWxzIHV0aWxlcyBlbiBtYXRpw4PCqHJlIGRlIHByw4PCqXZlbnRpb24gZXQgZMOi4oKs4oSiw4PCqWR1Y2F0aW9uIHBvdXIgbGEgc2FudMODwqksIGEgw4PCqXTDg8KpIGNlcnRpZmnDg8KpIHNlbG9uIGxlIEhPTmNvZGUgcGFyIGxhIEZvbmRhdGlvbiBIZWFsdGggT24gdGhlIE5ldC4uLg0K" />
+				<meta name="picture" content=" ()" />
+				<meta name="FullPath" content="/press_release/press_release|16520" />
+				<meta name="PathElement_0" content="press_release" />
+				<meta name="SwordID" content="press_release|16520" />
+				<meta name="SwordMIME" content="text/html" />
+				<meta name="SwordFileType" content="Web Page" />
+				<meta name="SwordSource" content="cespharm" />
+			</metadata>
+			<content encoding="base64binary">bmFtZSB3d3cuY2VzcGhhcm0uZnIgb2J0aWVudCBsYSBjZXJ0aWZpY2F0aW9uIEhBUy1IT04gZGF0
+				ZSAgdGV4dCA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJ1dGYtOCI/Pgo8c2VjdGlvbiB4
+				bWxuczppbWFnZT0iaHR0cDovL2V6Lm5vL25hbWVzcGFjZXMvZXpwdWJsaXNoMy9pbWFnZS8iIHht
+				bG5zOnhodG1sPSJodHRwOi8vZXoubm8vbmFtZXNwYWNlcy9lenB1Ymxpc2gzL3hodG1sLyIgeG1s
+				bnM6Y3VzdG9tPSJodHRwOi8vZXoubm8vbmFtZXNwYWNlcy9lenB1Ymxpc2gzL2N1c3RvbS8iPjxw
+				YXJhZ3JhcGg+TGUgc2l0ZSB3d3cuY2VzcGhhcm0uZnIsIHBlcm1ldHRhbnQgYXV4IHBoYXJtYWNp
+				ZW5zIGTigJlhY2PDqWRlciBmYWNpbGVtZW50IMOgIGRlcyBpbmZvcm1hdGlvbnMgZXQgb3V0aWxz
+				IHV0aWxlcyBlbiBtYXRpw6hyZSBkZSBwcsOpdmVudGlvbiBldCBk4oCZw6lkdWNhdGlvbiBwb3Vy
+				IGxhIHNhbnTDqSwgYSDDqXTDqSBjZXJ0aWZpw6kgc2Vsb24gbGUgSE9OY29kZSBwYXIgbGEgRm9u
+				ZGF0aW9uIEhlYWx0aCBPbiB0aGUgTmV0Li4uPC9wYXJhZ3JhcGg+PC9zZWN0aW9uPgogcGljdHVy
+				ZSA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJ1dGYtOCI/Pgo8ZXppbWFnZSBzZXJpYWxf
+				bnVtYmVyPSIxIiBpc192YWxpZD0iIiBmaWxlbmFtZT0iIiBzdWZmaXg9IiIgYmFzZW5hbWU9IiIg
+				ZGlycGF0aD0iIiB1cmw9IiIgb3JpZ2luYWxfZmlsZW5hbWU9IiIgbWltZV90eXBlPSIiIHdpZHRo
+				PSIiIGhlaWdodD0iIiBhbHRlcm5hdGl2ZV90ZXh0PSIiIGFsaWFzX2tleT0iMTI5MzAzMzc3MSIg
+				dGltZXN0YW1wPSIxMjc4MDc1Nzg1Ij48b3JpZ2luYWwgYXR0cmlidXRlX2lkPSIzNTI1OTYiIGF0
+				dHJpYnV0ZV92ZXJzaW9uPSIxIiBhdHRyaWJ1dGVfbGFuZ3VhZ2U9ImZyZS1GUiIvPjwvZXppbWFn
+				ZT4KIGxpbmtfMSAgbGlua18yICBsaW5rXzMgIGZpbGUgIGludGVybmFsX2xpbmsgIGRvY3VtZW50
+				cyA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJ1dGYtOCI/Pgo8cmVsYXRlZC1vYmplY3Rz
+				PjxyZWxhdGlvbi1saXN0Lz48L3JlbGF0ZWQtb2JqZWN0cz4KIHRoZW1lcyA8P3htbCB2ZXJzaW9u
+				PSIxLjAiIGVuY29kaW5nPSJ1dGYtOCI/Pgo8cmVsYXRlZC1vYmplY3RzPjxyZWxhdGlvbi1saXN0
+				Lz48L3JlbGF0ZWQtb2JqZWN0cz4KIA==
+			</content>
+		</record>
+		<record url="https://connectors.sword-group.com/cespharm/doc?node=press_release%7C19366" displayurl="http://www.cespharm.fr/Prevention-sante/Connaitre-le-Cespharm/Communiques-de-presse/2011/Commandez-les-brochures-DP-a-remettre-aux-patients-sur-le-site-www.cespharm.fr" action="add" mimetype="text/html" last-modified="Fri, 25 Jan 2013 10:45:51 CET" lock="true" authmethod="none" >
+			<metadata>
+				<meta name="Source" content="EZPublish" />
+				<meta name="Type" content="press_release" />
+				<meta name="name" content="Commandez les brochures DP à remettre aux patients sur le site www.cespharm.fr" />
+				<meta encoding="base64binary" name="dGV4dA==" content="RMODwqlzb3JtYWlzLCBwb3VyIHNlIHByb2N1cmVyIGxlcyBicm9jaHVyZXMgRFAgw4PCoCByZW1ldHRyZSBhdSBwYXRpZW50LCBpbCBzdWZmaXQgZGUgc2UgY29ubmVjdGVyIHN1ciBsZSBzaXRlIHd3dy5jZXNwaGFybS5mci4gSWwgc8Oi4oKs4oSiYWdpdCBkdSBzaXRlIGR1IENvbWl0w4PCqSBkw6LigqzihKLDg8KpZHVjYXRpb24gc2FuaXRhaXJlIGV0IHNvY2lhbGUgZGUgbGEgcGhhcm1hY2llIGZyYW7Dg8KnYWlzZSwgY29tbWlzc2lvbiBwZXJtYW5lbnRlIGRlIGzDouKCrOKEok9yZHJlIG5hdGlvbmFsIGRlcyBwaGFybWFjaWVucy5Qb3VyIHJhcHBlbCwgbG9yc3F1ZSBsZSBwaGFybWFjaWVuIHByb3Bvc2UgYXUgcGF0aWVudCBkZSBsdWkgY3LDg8KpZXIgdW4gRG9zc2llciBQaGFybWFjZXV0aXF1ZSwgaWwgZG9pdCBsdWkgcmVtZXR0cmUgdW5lIGJyb2NodXJlIGTDouKCrOKEomluZm9ybWF0aW9ucyBzdXIgbGUgRFAgcG91ciBvYnRlbmlyIHNvbiBjb25zZW50ZW1lbnQgw4PCqWNsYWlyw4PCqS4uLiANCg==" />
+				<meta name="picture" content=" ()" />
+				<meta name="themes00_name" content="Dossier pharmaceutique" />
+				<meta name="themes0_aggregat" content="Dossier pharmaceutique," />
+				<meta name="FullPath" content="/press_release/press_release|19366" />
+				<meta name="PathElement_0" content="press_release" />
+				<meta name="SwordID" content="press_release|19366" />
+				<meta name="SwordMIME" content="text/html" />
+				<meta name="SwordFileType" content="Web Page" />
+				<meta name="SwordSource" content="cespharm" />
+			</metadata>
+			<content encoding="base64binary">bmFtZSBDb21tYW5kZXogbGVzIGJyb2NodXJlcyBEUCDDoCByZW1ldHRyZSBhdXggcGF0aWVudHMg
+				c3VyIGxlIHNpdGUgd3d3LmNlc3BoYXJtLmZyIGRhdGUgIHRleHQgPD94bWwgdmVyc2lvbj0iMS4w
+				IiBlbmNvZGluZz0idXRmLTgiPz4KPHNlY3Rpb24geG1sbnM6aW1hZ2U9Imh0dHA6Ly9lei5uby9u
+				YW1lc3BhY2VzL2V6cHVibGlzaDMvaW1hZ2UvIiB4bWxuczp4aHRtbD0iaHR0cDovL2V6Lm5vL25h
+				bWVzcGFjZXMvZXpwdWJsaXNoMy94aHRtbC8iIHhtbG5zOmN1c3RvbT0iaHR0cDovL2V6Lm5vL25h
+				bWVzcGFjZXMvZXpwdWJsaXNoMy9jdXN0b20vIj48cGFyYWdyYXBoPkTDqXNvcm1haXMsIHBvdXIg
+				c2UgcHJvY3VyZXIgbGVzIGJyb2NodXJlcyBEUCDDoCByZW1ldHRyZSBhdSBwYXRpZW50LCBpbCBz
+				dWZmaXQgZGUgc2UgY29ubmVjdGVyIHN1ciBsZSBzaXRlIHd3dy5jZXNwaGFybS5mci4gSWwgc+KA
+				mWFnaXQgZHUgc2l0ZSBkdSBDb21pdMOpIGTigJnDqWR1Y2F0aW9uIHNhbml0YWlyZSBldCBzb2Np
+				YWxlIGRlIGxhIHBoYXJtYWNpZSBmcmFuw6dhaXNlLCBjb21taXNzaW9uIHBlcm1hbmVudGUgZGUg
+				bOKAmU9yZHJlIG5hdGlvbmFsIGRlcyBwaGFybWFjaWVucy48L3BhcmFncmFwaD48cGFyYWdyYXBo
+				PlBvdXIgcmFwcGVsLCBsb3JzcXVlIGxlIHBoYXJtYWNpZW4gcHJvcG9zZSBhdSBwYXRpZW50IGRl
+				IGx1aSBjcsOpZXIgdW4gRG9zc2llciBQaGFybWFjZXV0aXF1ZSwgaWwgZG9pdCBsdWkgcmVtZXR0
+				cmUgdW5lIGJyb2NodXJlIGTigJlpbmZvcm1hdGlvbnMgc3VyIGxlIERQIHBvdXIgb2J0ZW5pciBz
+				b24gY29uc2VudGVtZW50IMOpY2xhaXLDqS4uLiA8L3BhcmFncmFwaD48L3NlY3Rpb24+CiBwaWN0
+				dXJlIDw/eG1sIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9InV0Zi04Ij8+CjxlemltYWdlIHNlcmlh
+				bF9udW1iZXI9IjEiIGlzX3ZhbGlkPSIiIGZpbGVuYW1lPSIiIHN1ZmZpeD0iIiBiYXNlbmFtZT0i
+				IiBkaXJwYXRoPSIiIHVybD0iIiBvcmlnaW5hbF9maWxlbmFtZT0iIiBtaW1lX3R5cGU9IiIgd2lk
+				dGg9IiIgaGVpZ2h0PSIiIGFsdGVybmF0aXZlX3RleHQ9IiIgYWxpYXNfa2V5PSIxMjkzMDMzNzcx
+				IiB0aW1lc3RhbXA9IjEyOTc2ODk5OTgiPjxvcmlnaW5hbCBhdHRyaWJ1dGVfaWQ9IjQxODExMyIg
+				YXR0cmlidXRlX3ZlcnNpb249IjEiIGF0dHJpYnV0ZV9sYW5ndWFnZT0iZnJlLUZSIi8+PC9lemlt
+				YWdlPgogbGlua18xICBsaW5rXzIgIGxpbmtfMyAgZmlsZSAgaW50ZXJuYWxfbGluayAgZG9jdW1l
+				bnRzIDw/eG1sIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9InV0Zi04Ij8+CjxyZWxhdGVkLW9iamVj
+				dHM+PHJlbGF0aW9uLWxpc3QvPjwvcmVsYXRlZC1vYmplY3RzPgogdGhlbWVzIDw/eG1sIHZlcnNp
+				b249IjEuMCIgZW5jb2Rpbmc9InV0Zi04Ij8+CjxyZWxhdGVkLW9iamVjdHM+PHJlbGF0aW9uLWxp
+				c3Q+PHJlbGF0aW9uLWl0ZW0gcHJpb3JpdHk9IjEiIGNvbnRlbnRvYmplY3QtaWQ9IjI5MDUzIiBj
+				b250ZW50b2JqZWN0LXZlcnNpb249IjQiIG5vZGUtaWQ9IjI4OTU5IiBwYXJlbnQtbm9kZS1pZD0i
+				NjgiIGNvbnRlbnRjbGFzcy1pZD0iMjIiIGNvbnRlbnRjbGFzcy1pZGVudGlmaWVyPSJ0aGVtZSIg
+				Y29udGVudG9iamVjdC1yZW1vdGUtaWQ9IjgxYjU4YTcxNTBlNGQ0NGU2ZjZhYmM2YzQ4NzIwZjM3
+				Ii8+PC9yZWxhdGlvbi1saXN0PjwvcmVsYXRlZC1vYmplY3RzPgog
+			</content>
+		</record>
+		<record url="https://connectors.sword-group.com/cespharm/doc?node=press_release%7C27778" displayurl="http://www.cespharm.fr/Prevention-sante/Connaitre-le-Cespharm/Communiques-de-presse/2012/Prix-de-l-Ordre-et-du-Cespharm" action="add" mimetype="text/html" last-modified="Mon, 26 Nov 2012 11:09:07 CET" lock="true" authmethod="none" >
+			<metadata>
+				<meta name="Source" content="EZPublish" />
+				<meta name="Type" content="press_release" />
+				<meta name="name" content="Prix de l&apos;Ordre et du Cespharm" />
+				<meta encoding="base64binary" name="dGV4dA==" content="TGUgMjYgbm92ZW1icmUgMjAxMiwgbG9ycyBkZSBsYSBKb3VybsODwqllIGRlIGzDouKCrOKEok9yZHJlLCBsZXMgUHJpeCBkZSBsw6LigqzihKJPcmRyZSBldCBkdSBDZXNwaGFybSBvbnQgw4PCqXTDg8KpIHJlbWlzIHJlc3BlY3RpdmVtZW50IMODwqAgQW5uZS1DYXRoZXJpbmUgTWFpbGxvbHMtUGVycm95KiBldCBEYXZpZCBGZWxkbWFuKi5EZXB1aXMgMjAxMSwgbGEgbm91dmVsbGUgb3JnYW5pc2F0aW9uIGRlcyBQcml4IGRlIGzDouKCrOKEok9yZHJlIGV0IGR1IENlc3BoYXJtIHZpc2Ugw4PCoCBtZXR0cmUgZW4gbHVtacODwqhyZSBsZXMgYWN0aW9ucyBkZXMgamV1bmVzIHBoYXJtYWNpZW5zLsOCwqsgTGVzIHByaXggZGUgbMOi4oKs4oSiT3JkcmUgZXQgZHUgQ2VzcGhhcm0gc29udCBkZXV4IHByaXggcXVpIG5vdXMgdGllbm5lbnQgcGFydGljdWxpw4PCqHJlbWVudCDDg8KgIGPDheKAnHVyIGNhciBpbHMgdmFsb3Jpc2VudCBsZSB0cmF2YWlsIGRlcyBjb25mcsODwqhyZXMgZXQgZW5jb3VyYWdlbnQgbGEgamV1bmUgZ8ODwqluw4PCqXJhdGlvbiDDg8KgIGRvbm5lciBsZSBtZWlsbGV1ciBkw6LigqzihKJlbGxlLW3Dg8KqbWUgISDDgsK7IGEgZMODwqljbGFyw4PCqSBJc2FiZWxsZSBBZGVub3QsIHByw4PCqXNpZGVudCBkdSBDb25zZWlsIG5hdGlvbmFsIGRlIGzDouKCrOKEok9yZHJlIGRlcyBwaGFybWFjaWVucy4NCg==" />
+				<meta name="picture" content=" ()" />
+				<meta name="FullPath" content="/press_release/press_release|27778" />
+				<meta name="PathElement_0" content="press_release" />
+				<meta name="SwordID" content="press_release|27778" />
+				<meta name="SwordMIME" content="text/html" />
+				<meta name="SwordFileType" content="Web Page" />
+				<meta name="SwordSource" content="cespharm" />
+			</metadata>
+			<content encoding="base64binary">bmFtZSBQcml4IGRlIGwnT3JkcmUgZXQgZHUgQ2VzcGhhcm0gZGF0ZSAgdGV4dCA8P3htbCB2ZXJz
+				aW9uPSIxLjAiIGVuY29kaW5nPSJ1dGYtOCI/Pgo8c2VjdGlvbiB4bWxuczppbWFnZT0iaHR0cDov
+				L2V6Lm5vL25hbWVzcGFjZXMvZXpwdWJsaXNoMy9pbWFnZS8iIHhtbG5zOnhodG1sPSJodHRwOi8v
+				ZXoubm8vbmFtZXNwYWNlcy9lenB1Ymxpc2gzL3hodG1sLyIgeG1sbnM6Y3VzdG9tPSJodHRwOi8v
+				ZXoubm8vbmFtZXNwYWNlcy9lenB1Ymxpc2gzL2N1c3RvbS8iPjxwYXJhZ3JhcGg+PGxpbmUgeG1s
+				bnM6dG1wPSJodHRwOi8vZXoubm8vbmFtZXNwYWNlcy9lenB1Ymxpc2gzL3RlbXBvcmFyeS8iPkxl
+				IDI2IG5vdmVtYnJlIDIwMTIsIGxvcnMgZGUgbGEgSm91cm7DqWUgZGUgbOKAmU9yZHJlLCBsZXMg
+				UHJpeCBkZSBs4oCZT3JkcmUgZXQgZHUgQ2VzcGhhcm0gb250IMOpdMOpIHJlbWlzIHJlc3BlY3Rp
+				dmVtZW50IMOgIEFubmUtQ2F0aGVyaW5lIE1haWxsb2xzLVBlcnJveSogZXQgRGF2aWQgRmVsZG1h
+				biouPC9saW5lPjxsaW5lIHhtbG5zOnRtcD0iaHR0cDovL2V6Lm5vL25hbWVzcGFjZXMvZXpwdWJs
+				aXNoMy90ZW1wb3JhcnkvIj5EZXB1aXMgMjAxMSwgbGEgbm91dmVsbGUgb3JnYW5pc2F0aW9uIGRl
+				cyBQcml4IGRlIGzigJlPcmRyZSBldCBkdSBDZXNwaGFybSB2aXNlIMOgIG1ldHRyZSBlbiBsdW1p
+				w6hyZSBsZXMgYWN0aW9ucyBkZXMgamV1bmVzIHBoYXJtYWNpZW5zLjwvbGluZT48L3BhcmFncmFw
+				aD48cGFyYWdyYXBoPjxlbXBoYXNpemU+wqsgTGVzIHByaXggZGUgbOKAmU9yZHJlIGV0IGR1IENl
+				c3BoYXJtIHNvbnQgZGV1eCBwcml4IHF1aSBub3VzIHRpZW5uZW50IHBhcnRpY3VsacOocmVtZW50
+				IMOgIGPFk3VyIGNhciBpbHMgdmFsb3Jpc2VudCBsZSB0cmF2YWlsIGRlcyBjb25mcsOocmVzIGV0
+				IGVuY291cmFnZW50IGxhIGpldW5lIGfDqW7DqXJhdGlvbiDDoCBkb25uZXIgbGUgbWVpbGxldXIg
+				ZOKAmWVsbGUtbcOqbWUgISDCuyA8L2VtcGhhc2l6ZT5hIGTDqWNsYXLDqSBJc2FiZWxsZSBBZGVu
+				b3QsIHByw6lzaWRlbnQgZHUgQ29uc2VpbCBuYXRpb25hbCBkZSBs4oCZT3JkcmUgZGVzIHBoYXJt
+				YWNpZW5zLjwvcGFyYWdyYXBoPjwvc2VjdGlvbj4KIHBpY3R1cmUgPD94bWwgdmVyc2lvbj0iMS4w
+				IiBlbmNvZGluZz0idXRmLTgiPz4KPGV6aW1hZ2Ugc2VyaWFsX251bWJlcj0iMSIgaXNfdmFsaWQ9
+				IiIgZmlsZW5hbWU9IiIgc3VmZml4PSIiIGJhc2VuYW1lPSIiIGRpcnBhdGg9IiIgdXJsPSIiIG9y
+				aWdpbmFsX2ZpbGVuYW1lPSIiIG1pbWVfdHlwZT0iIiB3aWR0aD0iIiBoZWlnaHQ9IiIgYWx0ZXJu
+				YXRpdmVfdGV4dD0iIiBhbGlhc19rZXk9IjEyOTMwMzM3NzEiIHRpbWVzdGFtcD0iMTM1MzkyNDM0
+				MyI+PG9yaWdpbmFsIGF0dHJpYnV0ZV9pZD0iNjA4ODk0IiBhdHRyaWJ1dGVfdmVyc2lvbj0iMSIg
+				YXR0cmlidXRlX2xhbmd1YWdlPSJmcmUtRlIiLz48L2V6aW1hZ2U+CiBsaW5rXzEgIGxpbmtfMiAg
+				bGlua18zICBmaWxlICBpbnRlcm5hbF9saW5rICBkb2N1bWVudHMgPD94bWwgdmVyc2lvbj0iMS4w
+				IiBlbmNvZGluZz0idXRmLTgiPz4KPHJlbGF0ZWQtb2JqZWN0cz48cmVsYXRpb24tbGlzdC8+PC9y
+				ZWxhdGVkLW9iamVjdHM+CiB0aGVtZXMgPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRm
+				LTgiPz4KPHJlbGF0ZWQtb2JqZWN0cz48cmVsYXRpb24tbGlzdC8+PC9yZWxhdGVkLW9iamVjdHM+
+				CiA=
+			</content>
+		</record>
+		<record url="https://connectors.sword-group.com/cespharm/doc?node=press_release%7C34742" displayurl="http://www.cespharm.fr/Prevention-sante/Connaitre-le-Cespharm/Communiques-de-presse/2013/Remise-des-Prix-de-l-Ordre-et-du-Cespharm" action="add" mimetype="text/html" last-modified="Fri, 22 Nov 2013 14:54:32 CET" lock="true" authmethod="none" >
+			<metadata>
+				<meta name="Source" content="EZPublish" />
+				<meta name="Type" content="press_release" />
+				<meta name="name" content="Remise des Prix de l’Ordre et du Cespharm" />
+				<meta encoding="base64binary" name="dGV4dA==" content="TGUgMjEgbm92ZW1icmUgMjAxMywgbG9ycyBkZSBsYSBKb3VybsODwqllIGRlIGzDouKCrOKEok9yZHJlLCBsZXMgUHJpeCBkZSBsw6LigqzihKJPcmRyZSBldCBkdSBDZXNwaGFybSBvbnQgw4PCqXTDg8KpIHJlbWlzIHJlc3BlY3RpdmVtZW50IMODwqAgTWFkZW1vaXNlbGxlIENhbWlsbGUgTWFyc29saWVyIGV0IE1vbnNpZXVyIERlbmlzIENhc3NhaW5nLkRlcHVpcyBkZXV4IGFucywgbGUgbm91dmVhdSByw4PCqGdsZW1lbnQgZGVzIFByaXggZGUgbMOi4oKs4oSiT3JkcmUgZXQgZHUgQ2VzcGhhcm0gdmlzZSDDg8KgIG1ldHRyZSBlbiBsdW1pw4PCqHJlIGxlcyBhY3Rpb25zIGRlcyBqZXVuZXMgcGhhcm1hY2llbnMuw4LCqyBMZXMgcHJpeCBkZSBsw6LigqzihKJPcmRyZSBldCBkdSBDZXNwaGFybSBzb250IGRldmVudXMgZGVzIHJlbmRlei12b3VzIGluY29udG91cm5hYmxlcyBkZSBub3RyZSBpbnN0aXR1dGlvbiBxdWkgYSDDg8KgIGNvZXVyIGRlIHNvdXRlbmlyIGxlcyBqZXVuZXMgcGhhcm1hY2llbnMgcGFydGljdWxpw4PCqHJlbWVudCB0YWxlbnR1ZXV4ICEgTG9ycyBkdSB0b3VyIGRlIEZyYW5jZSDDg8KgIGxhIHJlbmNvbnRyZSBkZXMgamV1bmVzIHF1ZSBqZSByw4PCqWFsaXNlIGFjdHVlbGxlbWVudCwgamUgY29uc3RhdGUgcXVlIG5vdHJlIGpldW5lc3NlIGEgYmVzb2luIGTDouKCrOKEomVuY291cmFnZW1lbnQgZGFucyB1biBjb250ZXh0ZSBwcm9mZXNzaW9ubmVsIGRpZmZpY2lsZS4gw4LCuyBhIGTDg8KpY2xhcsODwqkgSXNhYmVsbGUgQWRlbm90LCBwcsODwqlzaWRlbnQgZHUgQ29uc2VpbCBuYXRpb25hbCBkZSBsw6LigqzihKJPcmRyZSBkZXMgcGhhcm1hY2llbnMuDQo=" />
+				<meta name="picture" content=" ()" />
+				<meta name="FullPath" content="/press_release/press_release|34742" />
+				<meta name="PathElement_0" content="press_release" />
+				<meta name="SwordID" content="press_release|34742" />
+				<meta name="SwordMIME" content="text/html" />
+				<meta name="SwordFileType" content="Web Page" />
+				<meta name="SwordSource" content="cespharm" />
+			</metadata>
+			<content encoding="base64binary">bmFtZSBSZW1pc2UgZGVzIFByaXggZGUgbOKAmU9yZHJlIGV0IGR1IENlc3BoYXJtIGRhdGUgIHRl
+				eHQgPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHNlY3Rpb24geG1sbnM6
+				aW1hZ2U9Imh0dHA6Ly9lei5uby9uYW1lc3BhY2VzL2V6cHVibGlzaDMvaW1hZ2UvIiB4bWxuczp4
+				aHRtbD0iaHR0cDovL2V6Lm5vL25hbWVzcGFjZXMvZXpwdWJsaXNoMy94aHRtbC8iIHhtbG5zOmN1
+				c3RvbT0iaHR0cDovL2V6Lm5vL25hbWVzcGFjZXMvZXpwdWJsaXNoMy9jdXN0b20vIj48cGFyYWdy
+				YXBoPjxsaW5lIHhtbG5zOnRtcD0iaHR0cDovL2V6Lm5vL25hbWVzcGFjZXMvZXpwdWJsaXNoMy90
+				ZW1wb3JhcnkvIj5MZSAyMSBub3ZlbWJyZSAyMDEzLCBsb3JzIGRlIGxhIEpvdXJuw6llIGRlIGzi
+				gJlPcmRyZSwgbGVzIFByaXggZGUgbOKAmU9yZHJlIGV0IGR1IENlc3BoYXJtIG9udCDDqXTDqSBy
+				ZW1pcyByZXNwZWN0aXZlbWVudCDDoCBNYWRlbW9pc2VsbGUgQ2FtaWxsZSBNYXJzb2xpZXIgZXQg
+				TW9uc2lldXIgRGVuaXMgQ2Fzc2FpbmcuPC9saW5lPjxsaW5lIHhtbG5zOnRtcD0iaHR0cDovL2V6
+				Lm5vL25hbWVzcGFjZXMvZXpwdWJsaXNoMy90ZW1wb3JhcnkvIj5EZXB1aXMgZGV1eCBhbnMsIGxl
+				IG5vdXZlYXUgcsOoZ2xlbWVudCBkZXMgUHJpeCBkZSBs4oCZT3JkcmUgZXQgZHUgQ2VzcGhhcm0g
+				dmlzZSDDoCBtZXR0cmUgZW4gbHVtacOocmUgbGVzIGFjdGlvbnMgZGVzIGpldW5lcyBwaGFybWFj
+				aWVucy48L2xpbmU+PC9wYXJhZ3JhcGg+PHBhcmFncmFwaD48ZW1waGFzaXplPsKrIExlcyBwcml4
+				IGRlIGzigJlPcmRyZSBldCBkdSBDZXNwaGFybSBzb250IGRldmVudXMgZGVzIHJlbmRlei12b3Vz
+				IGluY29udG91cm5hYmxlcyBkZSBub3RyZSBpbnN0aXR1dGlvbiBxdWkgYSDDoCBjb2V1ciBkZSBz
+				b3V0ZW5pciBsZXMgamV1bmVzIHBoYXJtYWNpZW5zIHBhcnRpY3VsacOocmVtZW50IHRhbGVudHVl
+				dXggISBMb3JzIGR1IHRvdXIgZGUgRnJhbmNlIMOgIGxhIHJlbmNvbnRyZSBkZXMgamV1bmVzIHF1
+				ZSBqZSByw6lhbGlzZSBhY3R1ZWxsZW1lbnQsIGplIGNvbnN0YXRlIHF1ZSBub3RyZSBqZXVuZXNz
+				ZSBhIGJlc29pbiBk4oCZZW5jb3VyYWdlbWVudCBkYW5zIHVuIGNvbnRleHRlIHByb2Zlc3Npb25u
+				ZWwgZGlmZmljaWxlLiDCuyBhIGTDqWNsYXLDqSBJc2FiZWxsZSBBZGVub3QsIHByw6lzaWRlbnQg
+				ZHUgQ29uc2VpbCBuYXRpb25hbCBkZSBs4oCZT3JkcmUgZGVzIHBoYXJtYWNpZW5zLjwvZW1waGFz
+				aXplPjwvcGFyYWdyYXBoPjwvc2VjdGlvbj4KIHBpY3R1cmUgPD94bWwgdmVyc2lvbj0iMS4wIiBl
+				bmNvZGluZz0idXRmLTgiPz4KPGV6aW1hZ2Ugc2VyaWFsX251bWJlcj0iMSIgaXNfdmFsaWQ9IiIg
+				ZmlsZW5hbWU9IiIgc3VmZml4PSIiIGJhc2VuYW1lPSIiIGRpcnBhdGg9IiIgdXJsPSIiIG9yaWdp
+				bmFsX2ZpbGVuYW1lPSIiIG1pbWVfdHlwZT0iIiB3aWR0aD0iIiBoZWlnaHQ9IiIgYWx0ZXJuYXRp
+				dmVfdGV4dD0iIiBhbGlhc19rZXk9IjEyOTMwMzM3NzEiIHRpbWVzdGFtcD0iMTM4NDQ0NDE2OSI+
+				PG9yaWdpbmFsIGF0dHJpYnV0ZV9pZD0iNzcwNDMxIiBhdHRyaWJ1dGVfdmVyc2lvbj0iMSIgYXR0
+				cmlidXRlX2xhbmd1YWdlPSJmcmUtRlIiLz48L2V6aW1hZ2U+CiBsaW5rXzEgIGxpbmtfMiAgbGlu
+				a18zICBmaWxlICBpbnRlcm5hbF9saW5rICBkb2N1bWVudHMgPD94bWwgdmVyc2lvbj0iMS4wIiBl
+				bmNvZGluZz0idXRmLTgiPz4KPHJlbGF0ZWQtb2JqZWN0cz48cmVsYXRpb24tbGlzdC8+PC9yZWxh
+				dGVkLW9iamVjdHM+CiB0aGVtZXMgPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgi
+				Pz4KPHJlbGF0ZWQtb2JqZWN0cz48cmVsYXRpb24tbGlzdC8+PC9yZWxhdGVkLW9iamVjdHM+CiA=
+			</content>
+		</record>
+		<record url="https://connectors.sword-group.com/cespharm/doc?node=press_release%7C35536" displayurl="http://www.cespharm.fr/Prevention-sante/Connaitre-le-Cespharm/Communiques-de-presse/2014/Sante-et-conduite-Certains-signaux-doivent-vous-faire-reflechir" action="add" mimetype="text/html" last-modified="Mon, 13 Jan 2014 17:20:45 CET" lock="true" authmethod="none" >
+			<metadata>
+				<meta name="Source" content="EZPublish" />
+				<meta name="Type" content="press_release" />
+				<meta name="name" content="Santé et conduite : &quot;Certains signaux doivent vous faire réfléchir&quot;" />
+				<meta encoding="base64binary" name="dGV4dA==" content="TGEgU8ODwqljdXJpdMODwqkgcm91dGnDg8KocmUgZXQgbGUgQ29uc2VpbCBuYXRpb25hbCBkZSBsw6LigqzihKJPcmRyZSBkZXMgcGhhcm1hY2llbnMgKENlc3BoYXJtKSBzw6LigqzihKJhc3NvY2llbnQgZXQgcHJvcG9zZW50IGF1eCBwcm9mZXNzaW9ubmVscyBkZSBzYW50w4PCqSBkZXV4IGFmZmljaGVzIMOCwqsgZ3JhbmQgcHVibGljIMOCwrsuIElsIHPDouKCrOKEomFnaXQgZMOi4oKs4oSiYWxlcnRlciBsZXMgdXNhZ2VycyBkZSBsYSByb3V0ZSBzdXIgbGVzIGZhY3RldXJzIHF1aSBhbHTDg8KocmVudCBsZXMgY2FwYWNpdMODwqlzIG7Dg8KpY2Vzc2FpcmVzIMODwqAgbGEgY29uZHVpdGUgZXQgbGVzIGluY2l0ZXIgYXUgZGlhbG9ndWUgcHLDg8KpdmVudGlmIGF2ZWMgbGVzIHByb2Zlc3Npb25uZWxzIGRlIHNhbnTDg8KpIGVuIGNhcyBkZSBkb3V0ZSBzdXIgbGV1ciBhcHRpdHVkZSDDg8KgIGxhIGNvbmR1aXRlLg0K" />
+				<meta name="picture" content=" ()" />
+				<meta name="FullPath" content="/press_release/press_release|35536" />
+				<meta name="PathElement_0" content="press_release" />
+				<meta name="SwordID" content="press_release|35536" />
+				<meta name="SwordMIME" content="text/html" />
+				<meta name="SwordFileType" content="Web Page" />
+				<meta name="SwordSource" content="cespharm" />
+			</metadata>
+			<content encoding="base64binary">bmFtZSBTYW50w6kgZXQgY29uZHVpdGUgOiAiQ2VydGFpbnMgc2lnbmF1eCBkb2l2ZW50IHZvdXMg
+				ZmFpcmUgcsOpZmzDqWNoaXIiIGRhdGUgIHRleHQgPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGlu
+				Zz0idXRmLTgiPz4KPHNlY3Rpb24geG1sbnM6aW1hZ2U9Imh0dHA6Ly9lei5uby9uYW1lc3BhY2Vz
+				L2V6cHVibGlzaDMvaW1hZ2UvIiB4bWxuczp4aHRtbD0iaHR0cDovL2V6Lm5vL25hbWVzcGFjZXMv
+				ZXpwdWJsaXNoMy94aHRtbC8iIHhtbG5zOmN1c3RvbT0iaHR0cDovL2V6Lm5vL25hbWVzcGFjZXMv
+				ZXpwdWJsaXNoMy9jdXN0b20vIj48cGFyYWdyYXBoPkxhIFPDqWN1cml0w6kgcm91dGnDqHJlIGV0
+				IGxlIENvbnNlaWwgbmF0aW9uYWwgZGUgbOKAmU9yZHJlIGRlcyBwaGFybWFjaWVucyAoQ2VzcGhh
+				cm0pIHPigJlhc3NvY2llbnQgZXQgcHJvcG9zZW50IGF1eCBwcm9mZXNzaW9ubmVscyBkZSBzYW50
+				w6kgZGV1eCBhZmZpY2hlcyDCqyBncmFuZCBwdWJsaWMgwrsuIElsIHPigJlhZ2l0IGTigJlhbGVy
+				dGVyIGxlcyB1c2FnZXJzIGRlIGxhIHJvdXRlIHN1ciBsZXMgZmFjdGV1cnMgcXVpIGFsdMOocmVu
+				dCBsZXMgY2FwYWNpdMOpcyBuw6ljZXNzYWlyZXMgw6AgbGEgY29uZHVpdGUgZXQgbGVzIGluY2l0
+				ZXIgYXUgZGlhbG9ndWUgcHLDqXZlbnRpZiBhdmVjIGxlcyBwcm9mZXNzaW9ubmVscyBkZSBzYW50
+				w6kgZW4gY2FzIGRlIGRvdXRlIHN1ciBsZXVyIGFwdGl0dWRlIMOgIGxhIGNvbmR1aXRlLjwvcGFy
+				YWdyYXBoPjwvc2VjdGlvbj4KIHBpY3R1cmUgPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0i
+				dXRmLTgiPz4KPGV6aW1hZ2Ugc2VyaWFsX251bWJlcj0iMSIgaXNfdmFsaWQ9IiIgZmlsZW5hbWU9
+				IiIgc3VmZml4PSIiIGJhc2VuYW1lPSIiIGRpcnBhdGg9IiIgdXJsPSIiIG9yaWdpbmFsX2ZpbGVu
+				YW1lPSIiIG1pbWVfdHlwZT0iIiB3aWR0aD0iIiBoZWlnaHQ9IiIgYWx0ZXJuYXRpdmVfdGV4dD0i
+				IiBhbGlhc19rZXk9IjEyOTMwMzM3NzEiIHRpbWVzdGFtcD0iMTM4OTYyOTkxNSI+PG9yaWdpbmFs
+				IGF0dHJpYnV0ZV9pZD0iNzg3OTM4IiBhdHRyaWJ1dGVfdmVyc2lvbj0iMSIgYXR0cmlidXRlX2xh
+				bmd1YWdlPSJmcmUtRlIiLz48L2V6aW1hZ2U+CiBsaW5rXzEgIGxpbmtfMiAgbGlua18zICBmaWxl
+				ICBpbnRlcm5hbF9saW5rICBkb2N1bWVudHMgPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0i
+				dXRmLTgiPz4KPHJlbGF0ZWQtb2JqZWN0cz48cmVsYXRpb24tbGlzdC8+PC9yZWxhdGVkLW9iamVj
+				dHM+CiB0aGVtZXMgPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHJlbGF0
+				ZWQtb2JqZWN0cz48cmVsYXRpb24tbGlzdC8+PC9yZWxhdGVkLW9iamVjdHM+CiA=
+			</content>
+		</record>
+		<record url="https://connectors.sword-group.com/cespharm/doc?node=press_release%7C37801" displayurl="http://www.cespharm.fr/Prevention-sante/Connaitre-le-Cespharm/Communiques-de-presse/2014/Remise-des-prix-de-l-Ordre-et-du-Cespharm" action="add" mimetype="text/html" last-modified="Tue, 25 Nov 2014 17:43:50 CET" lock="true" authmethod="none" >
+			<metadata>
+				<meta name="Source" content="EZPublish" />
+				<meta name="Type" content="press_release" />
+				<meta name="name" content="Remise des prix de l&apos;Ordre et du Cespharm" />
+				<meta encoding="base64binary" name="dGV4dA==" content="TGUgMjQgbm92ZW1icmUgMjAxNCwgbG9ycyBkZSBsYSBKb3VybsODwqllIGRlIGzDouKCrOKEok9yZHJlLCBsZXMgUHJpeCBkZSBsw6LigqzihKJPcmRyZSBldCBkdSBDZXNwaGFybSBvbnQgw4PCqXTDg8KpIHJlbWlzIHJlc3BlY3RpdmVtZW50IMODwqAgTW9uc2lldXIgbGUgcHJvZmVzc2V1ciBTw4PCqWJhc3RpZW4gRmF1cmUqIGV0IE1hZGFtZSBJc2FiZWxsZSBHZWlsZXIqLiBMZXMgUHJpeCBkZSBsw6LigqzihKJPcmRyZSBldCBkdSBDZXNwaGFybSBtZXR0ZW50IGVuIGx1bWnDg8KocmUgbGVzIGFjdGlvbnMgZGVzIGpldW5lcyBwaGFybWFjaWVucy7DgsKrIExlcyBwcml4IGRlIGzDouKCrOKEok9yZHJlIGV0IGR1IENlc3BoYXJtIHLDg8KpY29tcGVuc2VudCBsZSBkeW5hbWlzbWUgZGUgbGEgamV1bmUgZ8ODwqluw4PCqXJhdGlvbiBxdWkgc8Oi4oKs4oSiZW1wbG9pZSBjaGFxdWUgam91ciDDg8KgIGRvbm5lciB1bmUgYm9ubmUgaW1hZ2UgZGUgbGEgcHJvZmVzc2lvbiBlbiBpbm5vdmFudCBldCBlbiBwcm9wb3NhbnQgdG91am91cnMgcGx1cyBkZSBzZXJ2aWNlcyBhdXggcGF0aWVudHMgw4LCuyBhIGTDg8KpY2xhcsODwqkgSXNhYmVsbGUgQWRlbm90LCBwcsODwqlzaWRlbnQgZHUgQ29uc2VpbCBuYXRpb25hbCBkZSBsw6LigqzihKJPcmRyZSBkZXMgcGhhcm1hY2llbnMuDQo=" />
+				<meta name="picture" content=" ()" />
+				<meta name="FullPath" content="/press_release/press_release|37801" />
+				<meta name="PathElement_0" content="press_release" />
+				<meta name="SwordID" content="press_release|37801" />
+				<meta name="SwordMIME" content="text/html" />
+				<meta name="SwordFileType" content="Web Page" />
+				<meta name="SwordSource" content="cespharm" />
+			</metadata>
+			<content encoding="base64binary">bmFtZSBSZW1pc2UgZGVzIHByaXggZGUgbCdPcmRyZSBldCBkdSBDZXNwaGFybSBkYXRlICB0ZXh0
+				IDw/eG1sIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9InV0Zi04Ij8+CjxzZWN0aW9uIHhtbG5zOmlt
+				YWdlPSJodHRwOi8vZXoubm8vbmFtZXNwYWNlcy9lenB1Ymxpc2gzL2ltYWdlLyIgeG1sbnM6eGh0
+				bWw9Imh0dHA6Ly9lei5uby9uYW1lc3BhY2VzL2V6cHVibGlzaDMveGh0bWwvIiB4bWxuczpjdXN0
+				b209Imh0dHA6Ly9lei5uby9uYW1lc3BhY2VzL2V6cHVibGlzaDMvY3VzdG9tLyI+PHBhcmFncmFw
+				aD48c3Ryb25nPkxlIDI0IG5vdmVtYnJlIDIwMTQsIGxvcnMgZGUgbGEgSm91cm7DqWUgZGUgbOKA
+				mU9yZHJlLCBsZXMgUHJpeCBkZSBs4oCZT3JkcmUgZXQgZHUgQ2VzcGhhcm0gb250IMOpdMOpIHJl
+				bWlzIHJlc3BlY3RpdmVtZW50IMOgIE1vbnNpZXVyIGxlIHByb2Zlc3NldXIgU8OpYmFzdGllbiBG
+				YXVyZSogZXQgTWFkYW1lIElzYWJlbGxlIEdlaWxlciouPC9zdHJvbmc+PC9wYXJhZ3JhcGg+PHBh
+				cmFncmFwaD4gPC9wYXJhZ3JhcGg+PHBhcmFncmFwaD48c3Ryb25nPkxlcyBQcml4IGRlIGzigJlP
+				cmRyZSBldCBkdSBDZXNwaGFybSBtZXR0ZW50IGVuIGx1bWnDqHJlIGxlcyBhY3Rpb25zIGRlcyBq
+				ZXVuZXMgcGhhcm1hY2llbnMuPC9zdHJvbmc+PC9wYXJhZ3JhcGg+PHBhcmFncmFwaD48ZW1waGFz
+				aXplPsKrIExlcyBwcml4IGRlIGzigJlPcmRyZSBldCBkdSBDZXNwaGFybSByw6ljb21wZW5zZW50
+				IGxlIGR5bmFtaXNtZSBkZSBsYSBqZXVuZSBnw6luw6lyYXRpb24gcXVpIHPigJllbXBsb2llIGNo
+				YXF1ZSBqb3VyIMOgIGRvbm5lciB1bmUgYm9ubmUgaW1hZ2UgZGUgbGEgcHJvZmVzc2lvbiBlbiBp
+				bm5vdmFudCBldCBlbiBwcm9wb3NhbnQgdG91am91cnMgcGx1cyBkZSBzZXJ2aWNlcyBhdXggcGF0
+				aWVudHMgwrs8L2VtcGhhc2l6ZT4gYSBkw6ljbGFyw6kgSXNhYmVsbGUgQWRlbm90LCBwcsOpc2lk
+				ZW50IGR1IENvbnNlaWwgbmF0aW9uYWwgZGUgbOKAmU9yZHJlIGRlcyBwaGFybWFjaWVucy48L3Bh
+				cmFncmFwaD48L3NlY3Rpb24+CiBwaWN0dXJlIDw/eG1sIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9
+				InV0Zi04Ij8+CjxlemltYWdlIHNlcmlhbF9udW1iZXI9IjEiIGlzX3ZhbGlkPSIiIGZpbGVuYW1l
+				PSIiIHN1ZmZpeD0iIiBiYXNlbmFtZT0iIiBkaXJwYXRoPSIiIHVybD0iIiBvcmlnaW5hbF9maWxl
+				bmFtZT0iIiBtaW1lX3R5cGU9IiIgd2lkdGg9IiIgaGVpZ2h0PSIiIGFsdGVybmF0aXZlX3RleHQ9
+				IiIgYWxpYXNfa2V5PSIxMjkzMDMzNzcxIiB0aW1lc3RhbXA9IjE0MTY5MzMzODAiPjxvcmlnaW5h
+				bCBhdHRyaWJ1dGVfaWQ9Ijg0MzUyNSIgYXR0cmlidXRlX3ZlcnNpb249IjEiIGF0dHJpYnV0ZV9s
+				YW5ndWFnZT0iZnJlLUZSIi8+PC9lemltYWdlPgogbGlua18xICBsaW5rXzIgIGxpbmtfMyAgZmls
+				ZSAgaW50ZXJuYWxfbGluayAgZG9jdW1lbnRzIDw/eG1sIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9
+				InV0Zi04Ij8+CjxyZWxhdGVkLW9iamVjdHM+PHJlbGF0aW9uLWxpc3QvPjwvcmVsYXRlZC1vYmpl
+				Y3RzPgogdGhlbWVzIDw/eG1sIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9InV0Zi04Ij8+CjxyZWxh
+				dGVkLW9iamVjdHM+PHJlbGF0aW9uLWxpc3QvPjwvcmVsYXRlZC1vYmplY3RzPgog
+			</content>
+		</record>
+		<record url="https://connectors.sword-group.com/cespharm/doc?node=press_release%7C39111" displayurl="http://www.cespharm.fr/Prevention-sante/Connaitre-le-Cespharm/Communiques-de-presse/2015/Francois-Chast-nouveau-president-du-Cespharm" action="add" mimetype="text/html" last-modified="Tue, 21 Jul 2015 17:19:00 CEST" lock="true" authmethod="none" >
+			<metadata>
+				<meta name="Source" content="EZPublish" />
+				<meta name="Type" content="press_release" />
+				<meta name="name" content="François Chast, nouveau président du Cespharm" />
+				<meta encoding="base64binary" name="dGV4dA==" content="IExlIFByb2Zlc3NldXIgRnJhbsODwqdvaXMgQ2hhc3QsIGNoZWYgZHUgc2VydmljZSBkZSBQaGFybWFjaWUgY2xpbmlxdWUgZGVzIEjDg8K0cGl0YXV4IHVuaXZlcnNpdGFpcmVzIFBhcmlzIGNlbnRyZSAoSMODwrR0ZWwtRGlldSwgQ29jaGluLCBCcm9jYSksIGVzdCBsZSBub3V2ZWF1IHByw4PCqXNpZGVudCBkdSBDZXNwaGFybS4gICAgRMODwqljb3V2cmV6IGxhIHZpc2lvbiBkdSBQciBDaGFzdCBldCBsZXMgbWlzc2lvbnMgw4PCoCB2ZW5pciBkdSBDZXNwaGFybSBhdSBzZWluIGRlIGNlIGNvbW11bmlxdcODwqkgZGUgcHJlc3NlLiANCg==" />
+				<meta name="picture" content=" ()" />
+				<meta name="FullPath" content="/press_release/press_release|39111" />
+				<meta name="PathElement_0" content="press_release" />
+				<meta name="SwordID" content="press_release|39111" />
+				<meta name="SwordMIME" content="text/html" />
+				<meta name="SwordFileType" content="Web Page" />
+				<meta name="SwordSource" content="cespharm" />
+			</metadata>
+			<content encoding="base64binary">bmFtZSBGcmFuw6dvaXMgQ2hhc3QsIG5vdXZlYXUgcHLDqXNpZGVudCBkdSBDZXNwaGFybSBkYXRl
+				ICB0ZXh0IDw/eG1sIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9InV0Zi04Ij8+CjxzZWN0aW9uIHht
+				bG5zOmltYWdlPSJodHRwOi8vZXoubm8vbmFtZXNwYWNlcy9lenB1Ymxpc2gzL2ltYWdlLyIgeG1s
+				bnM6eGh0bWw9Imh0dHA6Ly9lei5uby9uYW1lc3BhY2VzL2V6cHVibGlzaDMveGh0bWwvIiB4bWxu
+				czpjdXN0b209Imh0dHA6Ly9lei5uby9uYW1lc3BhY2VzL2V6cHVibGlzaDMvY3VzdG9tLyI+PHBh
+				cmFncmFwaD4gPC9wYXJhZ3JhcGg+PHBhcmFncmFwaD5MZSA8bGluayB0YXJnZXQ9Il9ibGFuayIg
+				bm9kZV9pZD0iMzkwNDEiPlByb2Zlc3NldXIgRnJhbsOnb2lzIENoYXN0PC9saW5rPiwgY2hlZiBk
+				dSBzZXJ2aWNlIGRlIFBoYXJtYWNpZSBjbGluaXF1ZSBkZXMgSMO0cGl0YXV4IHVuaXZlcnNpdGFp
+				cmVzIFBhcmlzIGNlbnRyZSAoSMO0dGVsLURpZXUsIENvY2hpbiwgQnJvY2EpLCBlc3QgbGUgbm91
+				dmVhdSBwcsOpc2lkZW50IGR1IENlc3BoYXJtLiA8L3BhcmFncmFwaD48cGFyYWdyYXBoPiA8L3Bh
+				cmFncmFwaD48cGFyYWdyYXBoPiA8L3BhcmFncmFwaD48cGFyYWdyYXBoPiA8L3BhcmFncmFwaD48
+				cGFyYWdyYXBoPkTDqWNvdXZyZXogbGEgdmlzaW9uIGR1IFByIENoYXN0IGV0IGxlcyBtaXNzaW9u
+				cyDDoCB2ZW5pciBkdSBDZXNwaGFybSBhdSBzZWluIGRlIGNlIDxsaW5rIG5vZGVfaWQ9IjM5MDI4
+				Ij5jb21tdW5pcXXDqSBkZSBwcmVzc2U8L2xpbms+LjwvcGFyYWdyYXBoPjxwYXJhZ3JhcGg+IDwv
+				cGFyYWdyYXBoPjwvc2VjdGlvbj4KIHBpY3R1cmUgPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGlu
+				Zz0idXRmLTgiPz4KPGV6aW1hZ2Ugc2VyaWFsX251bWJlcj0iMSIgaXNfdmFsaWQ9IiIgZmlsZW5h
+				bWU9IiIgc3VmZml4PSIiIGJhc2VuYW1lPSIiIGRpcnBhdGg9IiIgdXJsPSIiIG9yaWdpbmFsX2Zp
+				bGVuYW1lPSIiIG1pbWVfdHlwZT0iIiB3aWR0aD0iIiBoZWlnaHQ9IiIgYWx0ZXJuYXRpdmVfdGV4
+				dD0iIiBhbGlhc19rZXk9IjEyOTMwMzM3NzEiIHRpbWVzdGFtcD0iMTQzNTc0MzI1MCI+PG9yaWdp
+				bmFsIGF0dHJpYnV0ZV9pZD0iODc4NzM1IiBhdHRyaWJ1dGVfdmVyc2lvbj0iMSIgYXR0cmlidXRl
+				X2xhbmd1YWdlPSJmcmUtRlIiLz48L2V6aW1hZ2U+CiBsaW5rXzEgIGxpbmtfMiAgbGlua18zICBm
+				aWxlICBpbnRlcm5hbF9saW5rICBkb2N1bWVudHMgPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGlu
+				Zz0idXRmLTgiPz4KPHJlbGF0ZWQtb2JqZWN0cz48cmVsYXRpb24tbGlzdC8+PC9yZWxhdGVkLW9i
+				amVjdHM+CiB0aGVtZXMgPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHJl
+				bGF0ZWQtb2JqZWN0cz48cmVsYXRpb24tbGlzdC8+PC9yZWxhdGVkLW9iamVjdHM+CiA=
+			</content>
+		</record>
+		<record url="https://connectors.sword-group.com/cespharm/doc?node=press_release%7C39229" displayurl="http://www.cespharm.fr/Prevention-sante/Connaitre-le-Cespharm/Communiques-de-presse/2015/Prix-de-l-Ordre-et-du-Cespharm-plus-que-quelques-semaines-pour-participer" action="add" mimetype="text/html" last-modified="Tue, 21 Jul 2015 17:33:38 CEST" lock="true" authmethod="none" >
+			<metadata>
+				<meta name="Source" content="EZPublish" />
+				<meta name="Type" content="press_release" />
+				<meta name="name" content="Prix de l&apos;Ordre et du Cespharm : plus que quelques semaines pour participer" />
+				<meta encoding="base64binary" name="dGV4dA==" content="TGVzIFByaXggZGUgbMOi4oKs4oSiT3JkcmUgZXQgZHUgQ2VzcGhhcm0gc29udCBkw4PCqWNlcm7Dg8KpcyBjaGFxdWUgYW5uw4PCqWUgcGFyIGzDouKCrOKEok9yZHJlIG5hdGlvbmFsIGRlcyBwaGFybWFjaWVucyBldCBsZSBDZXNwaGFybSBwb3VyIHZhbG9yaXNlciBsZSB0cmF2YWlsIGRlIGpldW5lcyBwaGFybWFjaWVucy4gUmVtaXMgbG9ycyBkZSBsYSBKb3VybsODwqllIGRlIGzDouKCrOKEok9yZHJlLCBjZXMgcHJpeCBtZXR0ZW50IMODwqAgbMOi4oKs4oSiaG9ubmV1ciBsZXVycyBhY3Rpb25zIGV0IGluaXRpYXRpdmVzLiBDZXMgamV1bmVzIHBoYXJtYWNpZW5zIG9udCBlbmNvcmUgbMOi4oKs4oSiw4PCqXTDg8KpIHBvdXIgcG9zdHVsZXIuRMODwqljb3V2cmV6IHBsdXMgZGUgZMODwql0YWlscyBkYW5zIGNlIGNvbW11bmlxdcODwqkgZGUgcHJlc3NlDQo=" />
+				<meta name="picture" content=" ()" />
+				<meta name="FullPath" content="/press_release/press_release|39229" />
+				<meta name="PathElement_0" content="press_release" />
+				<meta name="SwordID" content="press_release|39229" />
+				<meta name="SwordMIME" content="text/html" />
+				<meta name="SwordFileType" content="Web Page" />
+				<meta name="SwordSource" content="cespharm" />
+			</metadata>
+			<content encoding="base64binary">bmFtZSBQcml4IGRlIGwnT3JkcmUgZXQgZHUgQ2VzcGhhcm0gOiBwbHVzIHF1ZSBxdWVscXVlcyBz
+				ZW1haW5lcyBwb3VyIHBhcnRpY2lwZXIgZGF0ZSAgdGV4dCA8P3htbCB2ZXJzaW9uPSIxLjAiIGVu
+				Y29kaW5nPSJ1dGYtOCI/Pgo8c2VjdGlvbiB4bWxuczppbWFnZT0iaHR0cDovL2V6Lm5vL25hbWVz
+				cGFjZXMvZXpwdWJsaXNoMy9pbWFnZS8iIHhtbG5zOnhodG1sPSJodHRwOi8vZXoubm8vbmFtZXNw
+				YWNlcy9lenB1Ymxpc2gzL3hodG1sLyIgeG1sbnM6Y3VzdG9tPSJodHRwOi8vZXoubm8vbmFtZXNw
+				YWNlcy9lenB1Ymxpc2gzL2N1c3RvbS8iPjxwYXJhZ3JhcGg+TGVzIDxsaW5rIHRhcmdldD0iX2Js
+				YW5rIiBub2RlX2lkPSIyMTE1NyI+UHJpeDwvbGluaz4gZGUgbOKAmU9yZHJlIGV0IGR1IENlc3Bo
+				YXJtIHNvbnQgZMOpY2VybsOpcyBjaGFxdWUgYW5uw6llIHBhciBs4oCZT3JkcmUgbmF0aW9uYWwg
+				ZGVzIHBoYXJtYWNpZW5zIGV0IGxlIENlc3BoYXJtIHBvdXIgdmFsb3Jpc2VyIGxlIHRyYXZhaWwg
+				ZGUgamV1bmVzIHBoYXJtYWNpZW5zLiBSZW1pcyBsb3JzIGRlIGxhIEpvdXJuw6llIGRlIGzigJlP
+				cmRyZSwgY2VzIHByaXggbWV0dGVudCDDoCBs4oCZaG9ubmV1ciBsZXVycyBhY3Rpb25zIGV0IGlu
+				aXRpYXRpdmVzLiBDZXMgamV1bmVzIHBoYXJtYWNpZW5zIG9udCBlbmNvcmUgbOKAmcOpdMOpIHBv
+				dXIgcG9zdHVsZXIuPC9wYXJhZ3JhcGg+PHBhcmFncmFwaD5Ew6ljb3V2cmV6IHBsdXMgZGUgZMOp
+				dGFpbHMgZGFucyBjZSA8bGluayBub2RlX2lkPSIzOTE0MiI+Y29tbXVuaXF1w6kgZGUgcHJlc3Nl
+				PC9saW5rPjwvcGFyYWdyYXBoPjwvc2VjdGlvbj4KIHBpY3R1cmUgPD94bWwgdmVyc2lvbj0iMS4w
+				IiBlbmNvZGluZz0idXRmLTgiPz4KPGV6aW1hZ2Ugc2VyaWFsX251bWJlcj0iMSIgaXNfdmFsaWQ9
+				IiIgZmlsZW5hbWU9IiIgc3VmZml4PSIiIGJhc2VuYW1lPSIiIGRpcnBhdGg9IiIgdXJsPSIiIG9y
+				aWdpbmFsX2ZpbGVuYW1lPSIiIG1pbWVfdHlwZT0iIiB3aWR0aD0iIiBoZWlnaHQ9IiIgYWx0ZXJu
+				YXRpdmVfdGV4dD0iIiBhbGlhc19rZXk9IjEyOTMwMzM3NzEiIHRpbWVzdGFtcD0iMTQzNzQ5MDc3
+				MSI+PG9yaWdpbmFsIGF0dHJpYnV0ZV9pZD0iODgwOTcyIiBhdHRyaWJ1dGVfdmVyc2lvbj0iMSIg
+				YXR0cmlidXRlX2xhbmd1YWdlPSJmcmUtRlIiLz48L2V6aW1hZ2U+CiBsaW5rXzEgIGxpbmtfMiAg
+				bGlua18zICBmaWxlICBpbnRlcm5hbF9saW5rICBkb2N1bWVudHMgPD94bWwgdmVyc2lvbj0iMS4w
+				IiBlbmNvZGluZz0idXRmLTgiPz4KPHJlbGF0ZWQtb2JqZWN0cz48cmVsYXRpb24tbGlzdC8+PC9y
+				ZWxhdGVkLW9iamVjdHM+CiB0aGVtZXMgPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRm
+				LTgiPz4KPHJlbGF0ZWQtb2JqZWN0cz48cmVsYXRpb24tbGlzdC8+PC9yZWxhdGVkLW9iamVjdHM+
+				CiA=
+			</content>
+		</record>
+	</group>
+</gsafeed>
