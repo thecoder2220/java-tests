@@ -37,7 +37,7 @@ public class CurlTest {
         int PORT           = 19900;
         String FEED_URL    = "/xmlfeed";
 
-        String gsaServer;
+        String gsaServer = "http://gspmsa1.parisgsa.lan"+ ":" + PORT + FEED_URL;;
 
         try {
             ClassLoader classLoader = getClass().getClassLoader();
@@ -47,7 +47,7 @@ public class CurlTest {
 
 
             HttpPost postPageRequest;
-            postPageRequest = new HttpPost("http://gspmsa1.parisgsa.lan:19900/xmlfeed");
+            postPageRequest = new HttpPost(gsaServer);
 
             InputStream is = new FileInputStream(file);
 
