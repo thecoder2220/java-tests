@@ -16,6 +16,11 @@ import java.io.InputStream;
 
 import org.apache.http.HttpResponse;
 
+import static org.hamcrest.CoreMatchers.equalTo;
+import static org.hamcrest.CoreMatchers.is;
+import static org.hamcrest.MatcherAssert.assertThat;
+import static org.junit.jupiter.api.Assertions.fail;
+
 
 public class CurlTest {
 
@@ -59,13 +64,10 @@ public class CurlTest {
             HttpResponse postPageResponse = client.execute(postPageRequest);
             int status = postPageResponse.getStatusLine().getStatusCode();
 
-            if (status == 200)
-                System.out.println("The status = " + status);
-            else
-                System.out.println("XML was posted successfully to GSA!!");
+            assertThat(status, is(equalTo(200)));
 
         } catch (Exception e) {
-            System.out.println("Exception "+ e.getMessage() + " in HTTP request" );
+            fail("Exception "+ e.getMessage() + " in HTTP request" );
         }
 
     }
